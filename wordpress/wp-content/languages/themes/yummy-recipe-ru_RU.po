@@ -1,0 +1,220 @@
+# Translation of Themes - Yummy Recipe in Russian
+# This file is distributed under the same license as the Themes - Yummy Recipe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-11 07:50:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Yummy Recipe\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Yummy Recipe"
+msgstr "Yummy Recipe"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Yummy Recipe is a perfect theme for creating a professional food blog and recipe website. The theme is mobile-friendly, SEO optimized, Schema friendly, and loads faster to help you rank your recipes higher on search engines. The theme is compatible with the Delicious Recipes plugin to provide top-notch features to easily create and share your recipes. You can easily choose from unlimited colors and 900+ Google fonts to change your website look and feel with a single click. With the Instagram section, you can share your recipe images and grow your followers. It also includes newsletter integration to help you grow your email list and communicate with your readers. Yummy Recipe is translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=yummy-recipe, read the documentation at https://docs.blossomthemes.com/yummy-recipe/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Yummy Recipe - идеальная тема для создания профессионального блога о еде и веб-сайта с рецептами. Тема оптимизирована для мобильных устройств, оптимизирована для SEO, дружественна к  Schema и загружается еще быстрее, чтобы помочь вам повысить рейтинг ваших рецептов в поисковых системах. Тема совместима с плагином Delicious Recipes, чтобы предоставить первоклассные функции, позволяющие легко создавать и делиться своими рецептами. Вы можете легко выбирать из неограниченного количества цветов и более 900 шрифтов Google, чтобы изменить внешний вид своего веб-сайта одним щелчком мыши. В разделе Instagram вы можете поделиться своими изображениями с рецептами и увеличить количество подписчиков. Она также включает интеграцию с рассылкой, чтобы помочь вам расширить список адресов электронной почты ваших читателей и общаться с ними. Yummy Recipe поддерживает множество языков, RTL и совместима с WooCommerce. Посмотрите демо at https://blossomthemes.com/theme-demo/?theme=yummy-recipe, читайте документацию at https://docs.blossomthemes.com/yummy-recipe/, и получайте поддержку https://blossomthemes.com/support-ticket/."
+
+#: functions.php:1106
+msgid "Regenerate Thumbnails"
+msgstr "Пересоздать миниатюры"
+
+#: functions.php:1096
+msgid "BlossomThemes Email Newsletter"
+msgstr "BlossomThemes почтовая рассылка"
+
+#: functions.php:1091
+msgid "BlossomThemes Toolkit"
+msgstr "BlossomThemes Инструментарий"
+
+#: functions.php:1064
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:1064
+msgid " Powered by %s. "
+msgstr "Сайт работает на %s."
+
+#: functions.php:886
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: functions.php:72
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Ссылка на документацию: %1$sНажмите тут.%2$s"
+
+#: functions.php:70
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Ссылка на демо: %1$sНажмите тут.%2$s"
+
+#: functions.php:57
+msgid "Demo & Documentation"
+msgstr "Демо и документация"
+
+#: functions.php:187
+msgid "Change the font size of your site."
+msgstr "Измените размер шрифта вашего сайта."
+
+#: functions.php:186
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: functions.php:164
+msgid "Secondary font of the site."
+msgstr "Второстепенный шрифт на сайте."
+
+#: functions.php:163
+msgid "Secondary Font"
+msgstr "Второй шрифт"
+
+#: functions.php:142
+msgid "Primary font of the site."
+msgstr "Основной шрифт на сайте."
+
+#: functions.php:141
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#: functions.php:121
+msgid "Typography Settings"
+msgstr "Настройки типографики"
+
+#: functions.php:110
+msgid "Primary color of the theme."
+msgstr "Основной цвет темы."
+
+#: functions.php:109
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: functions.php:91
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Настроить типографику, заголовок и фоновое изображение"
+
+#: functions.php:90
+msgid "Appearance Settings"
+msgstr "Настройки отображения"
+
+#: functions.php:460
+msgid "This is the general sidebar layout for whole site."
+msgstr "Это общий макет боковой панели для всего сайта."
+
+#: functions.php:459
+msgid "Default Sidebar Layout"
+msgstr "Макет боковой панели по умолчанию"
+
+#: functions.php:433
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Это общий макет боковой панели для записей и пользовательских записей. Вы можете переопределить макет боковой панели для отдельной записи в соответствующей записи."
+
+#: functions.php:432
+msgid "Post Sidebar Layout"
+msgstr "Макет боковой панели страницы"
+
+#: functions.php:406
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Это общий макет боковой панели для страниц. Вы можете переопределить макет боковой панели для отдельной страницы на соответствующей странице."
+
+#: functions.php:405
+msgid "Page Sidebar Layout"
+msgstr "Расположение боковой панели страницы"
+
+#: functions.php:275
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: functions.php:618
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Найдите для себя отличные приключенческие праздники и развлечения по всей планете."
+
+#: functions.php:617
+msgid "Find Your Best Holiday"
+msgstr "Найдите ваши идеальные выходные"
+
+#: functions.php:619
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:914
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:913
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:912
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:1101
+msgid "BlossomThemes Social Feed"
+msgstr "BlossomThemes лента соцсетей"
+
+#: functions.php:1062
+msgid " Yummy Recipe | Developed By "
+msgstr " Yummy Recipe | Разработана "
+
+#: functions.php:385
+msgid "General Sidebar Layout"
+msgstr "Главный макет боковой панели"
+
+#: functions.php:372
+msgid "Choose the layout of the slider for your site."
+msgstr "Выберите макет слайдера для вашего сайта."
+
+#: functions.php:351 functions.php:371
+msgid "Slider Layout"
+msgstr "Макет слайдера"
+
+#: functions.php:338
+msgid "Choose the layout of the homepage for your site."
+msgstr "Выберите макет домашней страницы для вашего сайта."
+
+#: functions.php:337
+msgid "Homepage Layout"
+msgstr "Варианты макета главной страницы"
+
+#: functions.php:317
+msgid "Home Page Layout"
+msgstr "Макет домашней страницы"
+
+#: functions.php:304
+msgid "This is the layout for header."
+msgstr "Это макет шапки."
+
+#: functions.php:283 functions.php:303
+msgid "Header Layout"
+msgstr "Разметка заголовка"
+
+#: functions.php:1086
+msgid "Delicious Recipes – WordPress Recipe Plugin"
+msgstr "Delicious Recipes – плагин WordPress"
+
+#. Author of the theme
+#: functions.php:1063
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/downloads/yummy-recipe/"
+msgstr "https://blossomthemes.com/downloads/yummy-recipe/"

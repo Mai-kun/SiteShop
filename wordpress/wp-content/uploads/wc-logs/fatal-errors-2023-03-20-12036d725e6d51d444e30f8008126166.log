@@ -1,0 +1,10 @@
+2023-03-20T07:27:45+00:00 CRITICAL Uncaught Error: Call to a member function menu_item() on null in W:\domains\cake\wordpress\wp-content\plugins\woocommerce-menu-bar-cart\wp-menu-cart.php:707
+Stack trace:
+#0 W:\domains\cake\wordpress\wp-content\plugins\woocommerce-menu-bar-cart\wp-menu-cart.php(783): WpMenuCart->wpmenucart_menu_item()
+#1 W:\domains\cake\wordpress\wp-includes\class-wp-hook.php(308): WpMenuCart->wpmenucart_ajax()
+#2 W:\domains\cake\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#3 W:\domains\cake\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#4 W:\domains\cake\wordpress\wp-admin\admin-ajax.php(188): do_action()
+#5 {main}
+  thrown в W:\domains\cake\wordpress\wp-content\plugins\woocommerce-menu-bar-cart\wp-menu-cart.php на строке 707
+
